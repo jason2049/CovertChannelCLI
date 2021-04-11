@@ -1,0 +1,3 @@
+Encryption = 1
+ServerAddress = 192.168.140.129
+AutoCheckTime = 30
